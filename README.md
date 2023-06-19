@@ -1,0 +1,1 @@
+# Move a single image using paint MOO ICT
